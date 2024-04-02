@@ -2,7 +2,7 @@
 <div align="center">
   <img width="120" src="./docs/image/../images/logo.png" style="text-align: center;" >
 </div>
-<h1 align="center">Lunisolar</h1>
+<h1 align="center">Lunisolar ❤️ Z.L</h1>
 
 ![minzip](https://img.shields.io/bundlephobia/minzip/lunisolar)
 ![version](https://img.shields.io/npm/v/lunisolar)
